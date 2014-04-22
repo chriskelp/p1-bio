@@ -1,0 +1,30 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+body{
+
+	font-family: 'Special Elite';
+	font-size: 28px;
+	color: red;
+}
+
+.h1{
+
+	font-family: 'Special Elite';
+	
+
+	}
+
+iframe{
+    box-shadow: 10px 10px 10px green,
+    10px 10px 10px red;
+}
+
+iframe.hover{
+  opacity: 1;
+}
